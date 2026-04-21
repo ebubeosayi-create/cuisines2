@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+ <head>
+    <title>cuisines</title>
+    <style>
+        html{
+            background-color: rgb(255, 0, 0);
+        }
+        h1{  font-family: Verdana, Geneva, Tahoma, sans-serif;
+           font-size:30px; 
+            color: rgb(110, 89, 167);
+            background-color: aqua;
+        }
+        p{
+          color: rgb(0, 0, 0);
+          background-color: rgb(240, 161, 233);
+        }
+
+        h2{font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+           font-size:30px; 
+           color:rgb(41, 139, 226);}
+    </style>
+ </head>
+ <body>
+<h1>CUISINS</h1>
+<P>A cuisine is a characteristic style of cooking defined by specific ingredients, techniques, and dishes, usually associated with a particular culture, region, or religion. It is a living, evolving entity shaped by geography, climate, trade, and cultural exchanges over centuries.  Ingredients like basil, onions, garlic, and wheat originated in Asia/Middle East but are now foundational to global diets. The Columbian Exchange fundamentally altered cuisines globally, bringing ingredients like potatoes to Europe and chilies to India.</P>
+<H2>WHAT ARE CUISINS</H2>
+<P>A cuisine is a specific style of cooking characterized by distinctive ingredients, techniques, and dishes, usually associated with a particular culture, region, or country. It represents a coherent tradition of food preparation that arises from the daily lives and history of a people. </P>
+<P>Influences: Cuisines are shaped by local ingredients, climate, trade, and religion. For example, tropical diets may focus on fruits and vegetables, while colder climates might rely more on preserved meats and fish.</P>
+ </body>
+
+</video>
+<div>
+<p>linking a youtube video.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lxBhIfW4Z6U?si=xB7Gq8-3WBI5zXEw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
